@@ -4,5 +4,5 @@ variable "app_count" {
 }
 
 variable "image-name" {
-  default = "heroku/nodejs-hello-world"
+  default = "220080856178.dkr.ecr.us-east-1.amazonaws.com/ecr-sahil:latest"
 }
